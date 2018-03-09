@@ -1,5 +1,5 @@
 # hello-world
-just a testing repository
+testing repository
 
 
 This my first change directly from the github web access.
