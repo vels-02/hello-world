@@ -8,9 +8,8 @@ int readanumber()
   return x;
 }
 
-int main(int arg, char argv[])
+int main(void)
 {
   printf("Hello World!\n");
   printf("User entered : %d \n", readanumber());
-  return 0;
 }
